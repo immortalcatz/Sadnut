@@ -1,0 +1,6 @@
+{
+   "parent": "item/generated",
+   "textures": {
+       "layer0": "sadnutmaterials:items/sheets/double/black_steel_double_sheet"
+   }
+}
