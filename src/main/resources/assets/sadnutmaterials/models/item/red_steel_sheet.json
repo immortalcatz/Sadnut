@@ -1,6 +1,6 @@
 {
    "parent": "item/generated",
    "textures": {
-       "layer0": "sadnutmaterials:items/sheets/double/red_steel_double_sheet"
+       "layer0": "sadnutmaterials:items/sheets/red_steel_sheet"
    }
 }

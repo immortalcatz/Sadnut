@@ -1,6 +1,6 @@
 {
    "parent": "item/generated",
    "textures": {
-       "layer0": "sadnutmaterials:items/sheets/double/silver_double_sheet"
+       "layer0": "sadnutmaterials:items/sheets/silver_sheet"
    }
 }
