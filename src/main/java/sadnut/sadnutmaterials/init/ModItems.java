@@ -1,9 +1,9 @@
-package alas.sadnutmaterials.init;
+package sadnut.sadnutmaterials.init;
 
 import java.util.ArrayList;
 import java.util.List;
 
-import alas.sadnutmaterials.items.ItemBase;
+import sadnut.sadnutmaterials.items.ItemBase;
 import net.minecraft.item.Item;
 
 public class ModItems {

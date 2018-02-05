@@ -1,9 +1,8 @@
-package alas.sadnutmaterials.items;
+package sadnut.sadnutmaterials.items;
 
-import alas.sadnutmaterials.Main;
-import alas.sadnutmaterials.init.ModItems;
-import alas.sadnutmaterials.util.IHasModel;
-import net.minecraft.creativetab.CreativeTabs;
+import sadnut.sadnutmaterials.Main;
+import sadnut.sadnutmaterials.init.ModItems;
+import sadnut.sadnutmaterials.util.IHasModel;
 import net.minecraft.item.Item;
 
 public class ItemBase extends Item implements IHasModel{

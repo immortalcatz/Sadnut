@@ -1,9 +1,9 @@
-package alas.sadnutmaterials.init;
+package sadnut.sadnutmaterials.init;
 
 import java.util.ArrayList;
 import java.util.List;
 
-import alas.sadnutmaterials.blocks.BlockBase;
+import sadnut.sadnutmaterials.blocks.BlockBase;
 import net.minecraft.block.Block;
 import net.minecraft.block.material.Material;
 

@@ -1,4 +1,4 @@
-package alas.sadnutmaterials.proxy;
+package sadnut.sadnutmaterials.proxy;
 
 import net.minecraft.client.renderer.block.model.ModelResourceLocation;
 import net.minecraft.item.Item;

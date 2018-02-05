@@ -1,9 +1,9 @@
-package alas.sadnutmaterials.blocks;
+package sadnut.sadnutmaterials.blocks;
 
-import alas.sadnutmaterials.Main;
-import alas.sadnutmaterials.init.ModBlocks;
-import alas.sadnutmaterials.init.ModItems;
-import alas.sadnutmaterials.util.IHasModel;
+import sadnut.sadnutmaterials.Main;
+import sadnut.sadnutmaterials.init.ModBlocks;
+import sadnut.sadnutmaterials.init.ModItems;
+import sadnut.sadnutmaterials.util.IHasModel;
 import net.minecraft.block.Block;
 import net.minecraft.block.material.Material;
 import net.minecraft.item.Item;

@@ -1,9 +1,9 @@
-package alas.sadnutmaterials.util.handlers;
+package sadnut.sadnutmaterials.util.handlers;
 
 
-import alas.sadnutmaterials.init.ModBlocks;
-import alas.sadnutmaterials.init.ModItems;
-import alas.sadnutmaterials.util.IHasModel;
+import sadnut.sadnutmaterials.init.ModBlocks;
+import sadnut.sadnutmaterials.init.ModItems;
+import sadnut.sadnutmaterials.util.IHasModel;
 import net.minecraft.block.Block;
 import net.minecraft.item.Item;
 import net.minecraftforge.client.event.ModelRegistryEvent;

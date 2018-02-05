@@ -1,4 +1,4 @@
-package alas.sadnutmaterials.util.handlers;
+package sadnut.sadnutmaterials.util.handlers;
 
 public class OreDictionaryHandler {
 
