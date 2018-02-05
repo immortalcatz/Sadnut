@@ -150,4 +150,96 @@ public class ModItems {
 	public static final Item WROUGHT_IRON_UNSHAPED = new ItemBase("wrought_iron_unshaped");
 	public static final Item ZINC_UNSHAPED = new ItemBase("zinc_unshaped");
 	
+	//ore items
+	//metal ore items
+	public static final Item BISMUTHINITE_ITEM = new ItemBase("bismuthinite_item");
+	public static final Item BISMUTHINITE_POOR_ITEM = new ItemBase("bismuthinite_poor_item");
+	public static final Item BISMUTHINITE_RICH_ITEM = new ItemBase("bismuthinite_rich_item");
+	public static final Item BISMUTHINITE_SMALL_ITEM = new ItemBase("bismuthinite_small_item");
+	public static final Item CASSITERITE_ITEM = new ItemBase("cassiterite_item");
+	public static final Item CASSITERITE_POOR_ITEM = new ItemBase("cassiterite_poor_item");
+	public static final Item CASSITERITE_RICH_ITEM = new ItemBase("cassiterite_rich_item");
+	public static final Item CASSITERITE_SMALL_ITEM = new ItemBase("cassiterite_small_item");
+	public static final Item GARNIERITE_ITEM = new ItemBase("garnierite_item");
+	public static final Item GARNIERITE_POOR_ITEM = new ItemBase("garnierite_poor_item");
+	public static final Item GARNIERITE_RICH_ITEM = new ItemBase("garnierite_rich_item");
+	public static final Item GARNIERITE_SMALL_ITEM = new ItemBase("garnierite_small_item");
+	public static final Item HEMATITE_ITEM = new ItemBase("hematite_item");
+	public static final Item HEMATITE_POOR_ITEM = new ItemBase("hematite_poor_item");
+	public static final Item HEMATITE_RICH_ITEM = new ItemBase("hematite_rich_item");
+	public static final Item HEMATITE_SMALL_ITEM = new ItemBase("hematite_small_item");
+	public static final Item LIMONITE_ITEM = new ItemBase("limonite_item");
+	public static final Item LIMONITE_POOR_ITEM = new ItemBase("limonite_poor_item");
+	public static final Item LIMONITE_RICH_ITEM = new ItemBase("limonite_rich_item");
+	public static final Item LIMONITE_SMALL_ITEM = new ItemBase("limonite_small_item");
+	public static final Item MAGNETITE_ITEM = new ItemBase("magnetite_item");
+	public static final Item MAGNETITE_POOR_ITEM = new ItemBase("magnetite_poor_item");
+	public static final Item MAGNETITE_RICH_ITEM = new ItemBase("magnetite_rich_item");
+	public static final Item MAGNETITE_SMALL_ITEM = new ItemBase("magnetite_small_item");
+	public static final Item MALACHITE_ITEM = new ItemBase("malachite_item");
+	public static final Item MALACHITE_POOR_ITEM = new ItemBase("malachite_poor_item");
+	public static final Item MALACHITE_RICH_ITEM = new ItemBase("malachite_rich_item");
+	public static final Item MALACHITE_SMALL_ITEM = new ItemBase("malachite_small_item");
+	public static final Item NATIVE_COPPER_ITEM = new ItemBase("native_copper_item");
+	public static final Item NATIVE_COPPER_POOR_ITEM = new ItemBase("native_copper_poor_item");
+	public static final Item NATIVE_COPPER_RICH_ITEM = new ItemBase("native_copper_rich_item");
+	public static final Item NATIVE_COPPER_SMALL_ITEM = new ItemBase("native_copper_small_item");
+	public static final Item NATIVE_GOLD_ITEM = new ItemBase("native_gold_item");
+	public static final Item NATIVE_GOLD_POOR_ITEM = new ItemBase("native_gold_item");
+	public static final Item NATIVE_GOLD_RICH_ITEM = new ItemBase("native_gold_item");
+	public static final Item NATIVE_GOLD_SMALL_ITEM = new ItemBase("native_gold_item");
+	public static final Item NATIVE_SILVER_ITEM = new ItemBase("native_silver_item");
+	public static final Item NATIVE_SILVER_POOR_ITEM = new ItemBase("native_silver_poor_item");
+	public static final Item NATIVE_SILVER_RICH_ITEM = new ItemBase("native_silver_rich_item");
+	public static final Item NATIVE_SILVER_SMALL_ITEM = new ItemBase("native_silver_small_item");
+	public static final Item SPHALERITE_ITEM = new ItemBase("sphalerite_item");
+	public static final Item SPHALERITE_POOR_ITEM = new ItemBase("sphalerite_poor_item");
+	public static final Item SPHALERITE_RICH_ITEM = new ItemBase("sphalerite_rich_item");
+	public static final Item SPHALERITE_SMALL_ITEM = new ItemBase("sphalerite_small_item");
+	public static final Item TETRAHEDRITE_ITEM = new ItemBase("tetrahedrite_item");
+	public static final Item TETRAHEDRITE_POOR_ITEM = new ItemBase("tetrahedrite_poor_item");
+	public static final Item TETRAHEDRITE_RICH_ITEM = new ItemBase("tetrahedrite_rich_item");
+	public static final Item TETRAHEDRITE_SMALL_ITEM = new ItemBase("tetrahedrite_small_item");
+	
+	//nonmetal ore items
+	public static final Item BITUMINOUS_COAL_ITEM = new ItemBase("bituminous_coal_item");
+	public static final Item BORAX_ITEM = new ItemBase("borax_item");
+	public static final Item CINNABAR_ITEM = new ItemBase("cinnabar_item");
+	public static final Item CRYOLITE_ITEM = new ItemBase("cryolite_item");
+	public static final Item GRAPHITE_ITEM = new ItemBase("graphite_item");
+	public static final Item KAOLINITE_ITEM = new ItemBase("kaolinite_item");
+	public static final Item KIMBERLITE_ITEM = new ItemBase("kimberlite_item");
+	public static final Item LAPIS_LAZULI_ITEM = new ItemBase("lapis_lazuli_item");
+	public static final Item LIGNITE_ITEM = new ItemBase("lignite_item");
+	public static final Item SALTPETER_ITEM = new ItemBase("saltpeter_item");
+	public static final Item SULFUR_RICH_ITEM = new ItemBase("sulfur_rich_item");
+	public static final Item SULFUR_POOR_ITEM = new ItemBase("sulfur_poor_item");
+	public static final Item SULFUR_ITEM = new ItemBase("sulfur_item");
+	public static final Item SYLVITE_POOR_ITEM = new ItemBase("sylvite_poor_item");
+	public static final Item SYLVITE_RICH_ITEM = new ItemBase("sylvite_rich_item");
+	public static final Item SYLVITE_ITEM = new ItemBase("sylvite_item");
+	
+	
+	//useless ore items
+	public static final Item GALENA_ITEM = new ItemBase("galena_item");
+	public static final Item GALENA_SMALL_ITEM = new ItemBase("galena_small_item");
+	public static final Item GALENA_POOR_ITEM = new ItemBase("galena_poor_item");
+	public static final Item GALENA_RICH_ITEM = new ItemBase("galena_rich_item");
+	public static final Item NATIVE_PLATINUM_ITEM = new ItemBase("native_platinum_item");
+	public static final Item NATIVE_PLATINUM_SMALL_ITEM = new ItemBase("native_platinum_small_item");
+	public static final Item NATIVE_PLATINUM_POOR_ITEM = new ItemBase("native_platinum_poor_item");
+	public static final Item NATIVE_PLATINUM_RICH_ITEM = new ItemBase("native_platinum_rich_item");
+	public static final Item GYPSUM_ITEM = new ItemBase("gypsum_item");
+	public static final Item JET_ITEM = new ItemBase("jet_item");
+	public static final Item PITCHBLENDE_ITEM = new ItemBase("pitchblende_item");
+	public static final Item MICROCLINE_ITEM = new ItemBase("microcline_item");
+	public static final Item OLIVINE_ITEM = new ItemBase("olivine_item");
+	public static final Item PETRIFIED_WOOD_ITEM = new ItemBase("petrified_wood_item");
+	public static final Item SATINSPAR_ITEM = new ItemBase("satinspar_item");
+	public static final Item SELENITE_ITEM = new ItemBase("selenite_item");
+	public static final Item SERPENTINE_ITEM = new ItemBase("serpentine_item");
+	public static final Item SERPENTINE_SMALL_ITEM = new ItemBase("serpentine_small_item");
+	
+	
+	
 }
