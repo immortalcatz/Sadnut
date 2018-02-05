@@ -1,4 +1,4 @@
-package alas.sadnutmaterials.util;
+package sadnut.sadnutmaterials.util;
 
 public interface IHasModel {
 	

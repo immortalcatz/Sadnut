@@ -1,7 +1,7 @@
-package alas.sadnutmaterials;
+package sadnut.sadnutmaterials;
 
-import alas.sadnutmaterials.init.ModItems;
-import alas.sadnutmaterials.util.Reference;
+import sadnut.sadnutmaterials.init.ModItems;
+import sadnut.sadnutmaterials.util.Reference;
 import net.minecraft.creativetab.CreativeTabs;
 import net.minecraft.item.ItemStack;
 

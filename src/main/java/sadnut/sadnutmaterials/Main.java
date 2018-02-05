@@ -1,7 +1,7 @@
-package alas.sadnutmaterials;
+package sadnut.sadnutmaterials;
 
-import alas.sadnutmaterials.proxy.CommonProxy;
-import alas.sadnutmaterials.util.Reference;
+import sadnut.sadnutmaterials.proxy.CommonProxy;
+import sadnut.sadnutmaterials.util.Reference;
 import net.minecraftforge.fml.common.Mod;
 import net.minecraftforge.fml.common.Mod.EventHandler;
 import net.minecraftforge.fml.common.Mod.Instance;

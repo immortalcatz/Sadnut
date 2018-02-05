@@ -1,4 +1,4 @@
-package alas.sadnutmaterials.util;
+package sadnut.sadnutmaterials.util;
 
 public class Reference {
 	public static final String MOD_ID = "sadnutmaterials";
