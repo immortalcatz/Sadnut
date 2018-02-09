@@ -185,9 +185,9 @@ public class ModItems {
 	public static final Item NATIVE_COPPER_RICH_ITEM = new ItemBase("native_copper_rich_item");
 	public static final Item NATIVE_COPPER_SMALL_ITEM = new ItemBase("native_copper_small_item");
 	public static final Item NATIVE_GOLD_ITEM = new ItemBase("native_gold_item");
-	public static final Item NATIVE_GOLD_POOR_ITEM = new ItemBase("native_gold_item");
-	public static final Item NATIVE_GOLD_RICH_ITEM = new ItemBase("native_gold_item");
-	public static final Item NATIVE_GOLD_SMALL_ITEM = new ItemBase("native_gold_item");
+	public static final Item NATIVE_GOLD_POOR_ITEM = new ItemBase("native_gold_poor_item");
+	public static final Item NATIVE_GOLD_RICH_ITEM = new ItemBase("native_gold_rich_item");
+	public static final Item NATIVE_GOLD_SMALL_ITEM = new ItemBase("native_gold_small_item");
 	public static final Item NATIVE_SILVER_ITEM = new ItemBase("native_silver_item");
 	public static final Item NATIVE_SILVER_POOR_ITEM = new ItemBase("native_silver_poor_item");
 	public static final Item NATIVE_SILVER_RICH_ITEM = new ItemBase("native_silver_rich_item");
@@ -238,7 +238,6 @@ public class ModItems {
 	public static final Item SATINSPAR_ITEM = new ItemBase("satinspar_item");
 	public static final Item SELENITE_ITEM = new ItemBase("selenite_item");
 	public static final Item SERPENTINE_ITEM = new ItemBase("serpentine_item");
-	public static final Item SERPENTINE_SMALL_ITEM = new ItemBase("serpentine_small_item");
 	
 	
 	

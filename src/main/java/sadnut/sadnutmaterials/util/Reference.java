@@ -6,7 +6,7 @@ public class Reference {
 	public static final String VERSION = "0.6.0";
 	public static final String ACCEPTED_VERSIONS = "[1.12.2]";
 	
-	public static final String CLIENT_PROXY = "alas.sadnutmaterials.proxy.ClientProxy";
-	public static final String COMMON_PROXY = "alas.sadnutmaterials.proxy.CommonProxy";
+	public static final String CLIENT_PROXY = "sadnut.sadnutmaterials.proxy.ClientProxy";
+	public static final String COMMON_PROXY = "sadnut.sadnutmaterials.proxy.CommonProxy";
 	
 }
