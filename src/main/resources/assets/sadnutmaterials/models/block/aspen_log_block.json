@@ -1,0 +1,7 @@
+{
+    "parent": "block/cube_column",
+    "textures": {
+        "end": "sadnutmaterials:blocks/aspen_log_block_top",
+        "side": "sadnutmaterials:blocks/aspen_log_block"
+    }
+}

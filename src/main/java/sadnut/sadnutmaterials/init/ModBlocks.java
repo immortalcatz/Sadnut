@@ -3,45 +3,50 @@ package sadnut.sadnutmaterials.init;
 import java.util.ArrayList;
 import java.util.List;
 
-import sadnut.sadnutmaterials.blocks.BlockBase;
 import net.minecraft.block.Block;
 import net.minecraft.block.material.Material;
+import sadnut.sadnutmaterials.blocks.LeavesBase;
+import sadnut.sadnutmaterials.blocks.LogBase;
 
 public class ModBlocks {
 	public static final List<Block> BLOCKS = new ArrayList<Block>();
 	
-	//metal ores
-	public static final Block BISMUTHINITE_ORE_BLOCK = new BlockBase("bismuthinite_ore_block", Material.ROCK);
-	public static final Block CASSITERITE_ORE_BLOCK = new BlockBase("cassiterite_ore_block", Material.ROCK);
-	public static final Block GARNIERITE_ORE_BLOCK = new BlockBase("garnierite_ore_block", Material.ROCK);
-	public static final Block HEMATITE_ORE_BLOCK = new BlockBase("hematite_ore_block", Material.ROCK);
-	public static final Block LIMONITE_ORE_BLOCK = new BlockBase("limonite_ore_block", Material.ROCK);
-	public static final Block MAGNETITE_ORE_BLOCK = new BlockBase("magnetite_ore_block", Material.ROCK);
-	public static final Block MALACHITE_ORE_BLOCK = new BlockBase("malachite_ore_block", Material.ROCK);
-	public static final Block NATIVE_COPPER_ORE_BLOCK = new BlockBase("native_copper_ore_block", Material.ROCK);
-	public static final Block NATIVE_GOLD_ORE_BLOCK = new BlockBase("native_gold_ore_block", Material.ROCK);
-	public static final Block NATIVE_SILVER_ORE_BLOCK = new BlockBase("native_silver_ore_block", Material.ROCK);
-	public static final Block SPHALERITE_ORE_BLOCK = new BlockBase("sphalerite_ore_block", Material.ROCK);
-	public static final Block TETRAHEDRITE_ORE_BLOCK = new BlockBase("tetrahedrite_ore_block", Material.ROCK);
+	//logs
+	public static final Block ACACIA_LOG_BLOCK = new LogBase("acacia_log_block", Material.WOOD);
+	public static final Block ASH_LOG_BLOCK = new LogBase("ash_log_block", Material.WOOD);
+	public static final Block ASPEN_LOG_BLOCK = new LogBase("aspen_log_block", Material.WOOD);
+	public static final Block BIRCH_LOG_BLOCK = new LogBase("birch_log_block", Material.WOOD);
+	public static final Block CHESTNUT_LOG_BLOCK = new LogBase("chestnut_log_block", Material.WOOD);
+	public static final Block DOUGLAS_FIR_LOG_BLOCK = new LogBase("douglas_fir_log_block", Material.WOOD);
+	public static final Block HICKORY_LOG_BLOCK = new LogBase("hickory_log_block", Material.WOOD);
+	public static final Block KAPOK_LOG_BLOCK = new LogBase("kapok_log_block", Material.WOOD);
+	public static final Block MAPLE_LOG_BLOCK = new LogBase("maple_log_block", Material.WOOD);
+	public static final Block OAK_LOG_BLOCK = new LogBase("oak_log_block", Material.WOOD);
+	public static final Block PINE_LOG_BLOCK = new LogBase("pine_log_block", Material.WOOD);
+	public static final Block SEQUOIA_LOG_BLOCK = new LogBase("sequoia_log_block", Material.WOOD);
+	public static final Block SPRUCE_LOG_BLOCK = new LogBase("spruce_log_block", Material.WOOD);
+	public static final Block SYCAMORE_LOG_BLOCK = new LogBase("sycamore_log_block", Material.WOOD);
+	public static final Block WHITE_CEDAR_LOG_BLOCK = new LogBase("white_cedar_log_block", Material.WOOD);
+	public static final Block WHITE_ELM_LOG_BLOCK = new LogBase("white_elm_log_block", Material.WOOD);
+	public static final Block WILLOW_LOG_BLOCK = new LogBase("willow_log_block", Material.WOOD);
 	
-	//nonmetal ores
-	public static final Block BITUMINOUS_COAL_ORE_BLOCK = new BlockBase("bituminous_coal_ore_block", Material.ROCK);
-	public static final Block BORAX_ORE_BLOCK = new BlockBase("borax_ore_block", Material.ROCK);
-	public static final Block CINNABAR_ORE_BLOCK = new BlockBase("cinnabar_ore_block", Material.ROCK);
-	public static final Block CRYOLITE_ORE_BLOCK = new BlockBase("cryolite_ore_block", Material.ROCK);
-	public static final Block GRAPHITE_ORE_BLOCK = new BlockBase("graphite_ore_block", Material.ROCK);
-	public static final Block KAOLINITE_ORE_BLOCK = new BlockBase("kaolinite_ore_block", Material.ROCK);
-	public static final Block KIMBERLITE_ORE_BLOCK = new BlockBase("kimberlite_ore_block", Material.ROCK);
-	public static final Block LAPIS_LAZULI_ORE_BLOCK = new BlockBase("lapis_lazuli_ore_block", Material.ROCK);
-	public static final Block LIGNITE_ORE_BLOCK = new BlockBase("lignite_ore_block", Material.ROCK);
-	public static final Block SALTPETER_ORE_BLOCK = new BlockBase("saltpeter_ore_block", Material.ROCK);
-	public static final Block SULFUR_ORE_BLOCK = new BlockBase("sulfur_ore_block", Material.ROCK);
-	public static final Block SYLVITE_ORE_BLOCK = new BlockBase("sylvite_ore_block", Material.ROCK);
-	
-	//useless ores
-	public static final Block GALENA_ORE_BLOCK = new BlockBase("galena_ore_block", Material.ROCK);
-	public static final Block NATIVE_PLATINUM_ORE_BLOCK = new BlockBase("native_platinum_ore_block", Material.ROCK);
-	public static final Block GYPSUM_ORE_BLOCK = new BlockBase("gypsum_ore_block", Material.ROCK);
-	public static final Block JET_ORE_BLOCK = new BlockBase("jet_ore_block", Material.ROCK);
-	public static final Block PITCHBLENDE_ORE_BLOCK = new BlockBase("pitchblende_ore_block", Material.ROCK);
+	//leaves
+	public static final Block ACACIA_LEAVES = new LeavesBase("acacia_leaves");
+	public static final Block ASH_LEAVES = new LeavesBase("ash_leaves");
+	public static final Block ASPEN_LEAVES = new LeavesBase("aspen_leaves");
+	public static final Block BIRCH_LEAVES = new LeavesBase("birch_leaves");
+	public static final Block CHESTNUT_LEAVES = new LeavesBase("chestnut_leaves");
+	public static final Block DOUGLAS_FIR_LEAVES = new LeavesBase("douglas_fir_leaves");
+	public static final Block HICKORY_LEAVES = new LeavesBase("hickory_leaves");
+	public static final Block KAPOK_LEAVES = new LeavesBase("kapok_leaves");
+	public static final Block MAPLE_LEAVES = new LeavesBase("maple_leaves");
+	public static final Block OAK_LEAVES = new LeavesBase("oak_leaves");
+	public static final Block PINE_LEAVES = new LeavesBase("pine_leaves");
+	public static final Block SEQUOIA_LEAVES = new LeavesBase("sequoia_leaves");
+	public static final Block SPRUCE_LEAVES = new LeavesBase("spruce_leaves");
+	public static final Block SYCAMORE_LEAVES = new LeavesBase("sycamore_leaves");
+	public static final Block WHITE_CEDAR_LEAVES = new LeavesBase("white_cedar_leaves");
+	public static final Block WHITE_ELM_LEAVES = new LeavesBase("white_elm_leaves");
+	public static final Block WILLOW_LEAVES = new LeavesBase("willow_leaves");
+
 }

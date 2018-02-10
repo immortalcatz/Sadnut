@@ -1,0 +1,7 @@
+{
+    "parent": "block/cube_column",
+    "textures": {
+        "end": "sadnutmaterials:blocks/douglas_fir_log_block_top",
+        "side": "sadnutmaterials:blocks/douglas_fir_log_block"
+    }
+}

@@ -1,0 +1,7 @@
+{
+    "variants": {
+        "axis=y":  { "model": "sadnutmaterials:pine_log_block" },
+        "axis=z":   { "model": "sadnutmaterials:pine_log_block", "x": 90 },
+        "axis=x":   { "model": "sadnutmaterials:pine_log_block", "x": 90, "y": 90 }
+    }
+}

@@ -1,0 +1,7 @@
+{
+    "variants": {
+        "axis=y":  { "model": "sadnutmaterials:ash_log_block" },
+        "axis=z":   { "model": "sadnutmaterials:ash_log_block", "x": 90 },
+        "axis=x":   { "model": "sadnutmaterials:ash_log_block", "x": 90, "y": 90 }
+    }
+}

@@ -1,0 +1,6 @@
+{
+    "parent": "block/leaves",
+    "textures": {
+        "all": "sadnutmaterials:blocks/douglas_fir_leaves"
+    }
+}
