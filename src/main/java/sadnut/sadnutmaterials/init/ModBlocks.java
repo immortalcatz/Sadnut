@@ -3,21 +3,20 @@ package sadnut.sadnutmaterials.init;
 import java.util.ArrayList;
 import java.util.List;
 
-<<<<<<< HEAD
+
 import net.minecraft.block.Block;
 import net.minecraft.block.material.Material;
 import sadnut.sadnutmaterials.blocks.LeavesBase;
 import sadnut.sadnutmaterials.blocks.LogBase;
-=======
+
 import sadnut.sadnutmaterials.blocks.BlockBase;
 import net.minecraft.block.Block;
 import net.minecraft.block.material.Material;
->>>>>>> master
 
 public class ModBlocks {
 	public static final List<Block> BLOCKS = new ArrayList<Block>();
-	
-<<<<<<< HEAD
+
+
 	//logs
 	public static final Block ACACIA_LOG_BLOCK = new LogBase("acacia_log_block", Material.WOOD);
 	public static final Block ASH_LOG_BLOCK = new LogBase("ash_log_block", Material.WOOD);
@@ -55,8 +54,7 @@ public class ModBlocks {
 	public static final Block WHITE_CEDAR_LEAVES = new LeavesBase("white_cedar_leaves");
 	public static final Block WHITE_ELM_LEAVES = new LeavesBase("white_elm_leaves");
 	public static final Block WILLOW_LEAVES = new LeavesBase("willow_leaves");
-=======
+
 	//metal ores
->>>>>>> master
 
 }

@@ -238,11 +238,6 @@ public class ModItems {
 	public static final Item SATINSPAR_ITEM = new ItemBase("satinspar_item");
 	public static final Item SELENITE_ITEM = new ItemBase("selenite_item");
 	public static final Item SERPENTINE_ITEM = new ItemBase("serpentine_item");
-	
-<<<<<<< HEAD
 
-=======
-	
->>>>>>> master
-	
 }
+
