@@ -222,6 +222,7 @@ item.petrified_wood_item.name=Petrified Wood
 item.satinspar_item.name=Satinspar
 item.selenite_item.name=Selenite
 item.serpentine_item.name=Serpentine
+<<<<<<< HEAD
 
 //logs
 tile.acacia_log_block.name=Acacia Log
@@ -241,3 +242,5 @@ tile.sycamore_log_block.name=Sycamore Log
 tile.white_cedar_log_block.name=White Cedar Log
 tile.white_elm_log_block.name=White Elm Log
 tile.willow_log_block.name=Willow Log
+=======
+>>>>>>> master

@@ -20,7 +20,11 @@ public class RegistryHandler {
 	
 	@SubscribeEvent
 	public static void onBlockRegister(RegistryEvent.Register<Block> event) {
+<<<<<<< HEAD
 		event.getRegistry().registerAll(ModBlocks.BLOCKS.toArray(new Block[1]));
+=======
+		event.getRegistry().registerAll(ModBlocks.BLOCKS.toArray(new Block[0]));
+>>>>>>> master
 	}
 	
 	@SubscribeEvent
