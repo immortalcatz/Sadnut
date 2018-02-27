@@ -1,0 +1,7 @@
+{
+    "parent": "block/cube_column",
+    "textures": {
+        "end": "sadnutworldgen:blocks/kapok_log_block_top",
+        "side": "sadnutworldgen:blocks/kapok_log_block"
+    }
+}

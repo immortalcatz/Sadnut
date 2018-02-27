@@ -1,7 +1,0 @@
-{
-    "variants": {
-        "axis=y":  { "model": "sadnutmaterials:douglas_fir_log_block" },
-        "axis=z":   { "model": "sadnutmaterials:douglas_fir_log_block", "x": 90 },
-        "axis=x":   { "model": "sadnutmaterials:douglas_fir_log_block", "x": 90, "y": 90 }
-    }
-}

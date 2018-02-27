@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "sadnuttools:items/toolheads/red_steel_knife_blade"
+  }
+}

@@ -1,6 +1,0 @@
-{
-    "parent": "block/leaves",
-    "textures": {
-        "all": "sadnutmaterials:blocks/hickory_leaves"
-    }
-}

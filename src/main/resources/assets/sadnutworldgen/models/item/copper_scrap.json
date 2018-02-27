@@ -1,0 +1,6 @@
+{
+   "parent": "item/generated",
+   "textures": {
+       "layer0": "sadnutworldgen:items/scrap/copper_scrap"
+   }
+}

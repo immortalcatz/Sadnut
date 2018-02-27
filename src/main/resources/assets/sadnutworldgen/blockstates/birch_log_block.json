@@ -1,0 +1,7 @@
+{
+    "variants": {
+        "axis=y":  { "model": "sadnutworldgen:birch_log_block" },
+        "axis=z":   { "model": "sadnutworldgen:birch_log_block", "x": 90 },
+        "axis=x":   { "model": "sadnutworldgen:birch_log_block", "x": 90, "y": 90 }
+    }
+}

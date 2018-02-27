@@ -1,6 +1,0 @@
-{
-   "parent": "item/generated",
-   "textures": {
-       "layer0": "sadnutmaterials:items/sheets/double/pig_iron_double_sheet"
-   }
-}

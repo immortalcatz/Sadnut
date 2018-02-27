@@ -1,6 +1,0 @@
-{
-   "parent": "item/generated",
-   "textures": {
-       "layer0": "sadnutmaterials:items/sheets/double/bismuth_bronze_double_sheet"
-   }
-}

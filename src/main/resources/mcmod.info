@@ -1,9 +1,9 @@
 [
 {
-  "modid": "sadnutmaterials",
-  "name": "SadnutMaterials",
-  "description": "Materials for the Sadnut mods",
-  "version": "0.7.0",
+  "modid": "sadnutworldgen",
+  "name": "SadnutWorlden",
+  "description": "Worldgen blocks for the Sadnut mods",
+  "version": "0.1.0",
   "mcversion": "1.12.2",
   "url": "",
   "updateUrl": "",

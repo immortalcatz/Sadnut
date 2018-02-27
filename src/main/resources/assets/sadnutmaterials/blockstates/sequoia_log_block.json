@@ -1,7 +1,0 @@
-{
-    "variants": {
-        "axis=y":  { "model": "sadnutmaterials:sequoia_log_block" },
-        "axis=z":   { "model": "sadnutmaterials:sequoia_log_block", "x": 90 },
-        "axis=x":   { "model": "sadnutmaterials:sequoia_log_block", "x": 90, "y": 90 }
-    }
-}

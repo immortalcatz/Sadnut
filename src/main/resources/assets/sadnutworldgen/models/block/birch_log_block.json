@@ -1,0 +1,7 @@
+{
+    "parent": "block/cube_column",
+    "textures": {
+        "end": "sadnutworldgen:blocks/birch_log_block_top",
+        "side": "sadnutworldgen:blocks/birch_log_block"
+    }
+}

@@ -1,7 +1,0 @@
-{
-    "variants": {
-        "axis=y":  { "model": "sadnutmaterials:aspen_log_block" },
-        "axis=z":   { "model": "sadnutmaterials:aspen_log_block", "x": 90 },
-        "axis=x":   { "model": "sadnutmaterials:aspen_log_block", "x": 90, "y": 90 }
-    }
-}

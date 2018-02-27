@@ -1,0 +1,6 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "sadnuttools:items/tools/black_steel_scythe"
+  }
+}

@@ -1,0 +1,6 @@
+{
+    "parent": "block/leaves",
+    "textures": {
+        "all": "sadnutworldgen:blocks/pine_leaves"
+    }
+}

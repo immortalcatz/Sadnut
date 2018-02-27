@@ -1,6 +1,0 @@
-{
-   "parent": "item/generated",
-   "textures": {
-       "layer0": "sadnutmaterials:blocks/ash_log_item"
-   }
-}
