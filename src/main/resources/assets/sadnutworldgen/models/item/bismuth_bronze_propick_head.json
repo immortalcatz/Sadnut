@@ -1,6 +1,0 @@
-{
-  "parent": "item/generated",
-  "textures": {
-    "layer0": "sadnuttools:items/toolheads/bismuth_bronze_propick_head"
-  }
-}

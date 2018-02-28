@@ -1,7 +1,0 @@
-{
-    "variants": {
-        "axis=y":  { "model": "sadnutworldgen:maple_log_block" },
-        "axis=z":   { "model": "sadnutworldgen:maple_log_block", "x": 90 },
-        "axis=x":   { "model": "sadnutworldgen:maple_log_block", "x": 90, "y": 90 }
-    }
-}

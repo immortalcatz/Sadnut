@@ -1,6 +1,0 @@
-{
-    "parent": "block/leaves",
-    "textures": {
-        "all": "sadnutworldgen:blocks/douglas_fir_leaves"
-    }
-}

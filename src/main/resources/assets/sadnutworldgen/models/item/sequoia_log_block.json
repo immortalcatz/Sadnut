@@ -1,6 +1,0 @@
-{
-   "parent": "item/generated",
-   "textures": {
-       "layer0": "sadnutworldgen:blocks/sequoia_log_item"
-   }
-}

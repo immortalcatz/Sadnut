@@ -1,7 +1,0 @@
-{
-    "parent": "block/cube_column",
-    "textures": {
-        "end": "sadnutworldgen:blocks/sequoia_log_block_top",
-        "side": "sadnutworldgen:blocks/sequoia_log_block"
-    }
-}

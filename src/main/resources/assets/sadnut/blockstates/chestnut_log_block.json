@@ -1,0 +1,7 @@
+{
+    "variants": {
+        "axis=y":  { "model": "sadnut:chestnut_log_block" },
+        "axis=z":   { "model": "sadnut:chestnut_log_block", "x": 90 },
+        "axis=x":   { "model": "sadnut:chestnut_log_block", "x": 90, "y": 90 }
+    }
+}

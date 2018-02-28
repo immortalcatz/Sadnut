@@ -1,7 +1,0 @@
-{
-    "variants": {
-        "axis=y":  { "model": "sadnutworldgen:hickory_log_block" },
-        "axis=z":   { "model": "sadnutworldgen:hickory_log_block", "x": 90 },
-        "axis=x":   { "model": "sadnutworldgen:hickory_log_block", "x": 90, "y": 90 }
-    }
-}

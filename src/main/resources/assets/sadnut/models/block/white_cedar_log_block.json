@@ -1,0 +1,7 @@
+{
+    "parent": "block/cube_column",
+    "textures": {
+        "end": "sadnut:blocks/white_cedar_log_block_top",
+        "side": "sadnut:blocks/white_cedar_log_block"
+    }
+}

@@ -1,0 +1,6 @@
+{
+   "parent": "item/generated",
+   "textures": {
+       "layer0": "sadnut:items/ingots/double/brass_double_ingot"
+   }
+}

@@ -1,6 +1,0 @@
-{
-   "parent": "item/generated",
-   "textures": {
-       "layer0": "sadnutworldgen:items/oreitems/galena_small_item"
-   }
-}

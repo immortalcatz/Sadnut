@@ -1,7 +1,0 @@
-{
-    "variants": {
-        "axis=y":  { "model": "sadnutworldgen:white_cedar_log_block" },
-        "axis=z":   { "model": "sadnutworldgen:white_cedar_log_block", "x": 90 },
-        "axis=x":   { "model": "sadnutworldgen:white_cedar_log_block", "x": 90, "y": 90 }
-    }
-}

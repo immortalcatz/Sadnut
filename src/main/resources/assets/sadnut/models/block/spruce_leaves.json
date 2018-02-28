@@ -1,0 +1,6 @@
+{
+    "parent": "block/leaves",
+    "textures": {
+        "all": "sadnut:blocks/spruce_leaves"
+    }
+}

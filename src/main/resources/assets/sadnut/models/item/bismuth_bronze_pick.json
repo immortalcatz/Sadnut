@@ -1,0 +1,6 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "sadnut:items/tools/bismuth_bronze_pick"
+  }
+}

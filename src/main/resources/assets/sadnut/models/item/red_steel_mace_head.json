@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "sadnut:items/toolheads/red_steel_mace_head"
+  }
+}
