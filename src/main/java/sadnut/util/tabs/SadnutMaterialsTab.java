@@ -1,4 +1,4 @@
-package sadnut.tabs;
+package sadnut.util.tabs;
 
 import net.minecraft.creativetab.CreativeTabs;
 import net.minecraft.item.ItemStack;

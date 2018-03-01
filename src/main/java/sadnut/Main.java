@@ -11,10 +11,10 @@ import net.minecraftforge.fml.common.network.NetworkRegistry;
 import net.minecraftforge.fml.common.network.simpleimpl.SimpleNetworkWrapper;
 import net.minecraftforge.fml.relauncher.Side;
 import sadnut.proxy.CommonProxy;
-import sadnut.tabs.SadnutMaterialsTab;
-import sadnut.tabs.SadnutToolsTab;
-import sadnut.tabs.SadnutWorldgenTab;
 import sadnut.util.Reference;
+import sadnut.util.tabs.SadnutMaterialsTab;
+import sadnut.util.tabs.SadnutToolsTab;
+import sadnut.util.tabs.SadnutWorldgenTab;
 import sadnut.world.WorldTypeSadnut;
 
 @Mod(modid = Reference.MOD_ID, name = Reference.NAME, version = Reference.VERSION)

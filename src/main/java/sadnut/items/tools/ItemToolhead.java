@@ -9,11 +9,7 @@ public class ItemToolhead extends ItemBase implements IHasModel{
 
 	public ItemToolhead(String name) {
 		super(name);
-		setUnlocalizedName(name);
-		setRegistryName(name);
 		setCreativeTab(Main.toolsTab);
-		
-		ModItems.ITEMS.add(this);
 	}
 
 }

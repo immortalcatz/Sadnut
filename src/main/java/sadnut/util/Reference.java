@@ -1,8 +1,8 @@
 package sadnut.util;
 
 public class Reference {
-	public static final String MOD_ID = "sadnutworldgen";
-	public static final String NAME = "Sadnut Worldgen";
+	public static final String MOD_ID = "sadnut";
+	public static final String NAME = "Sadnut";
 	public static final String VERSION = "0.1.0";
 	public static final String ACCEPTED_VERSIONS = "[1.12.2]";
 	
